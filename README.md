@@ -1,8 +1,8 @@
 
 ## noahswtf
 
-Self Taught Developer, Mainly Focusing In C++.
+Self taught <strong>C/C++ developer</strong>. Interested in low level programming and kernel development.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahswtf)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahswtf&theme=dark)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahswtf)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=noahswtf&theme=dark)
